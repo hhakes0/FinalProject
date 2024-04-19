@@ -1,0 +1,28 @@
+p{
+    font-weight: bold;
+    font-size: 20px;
+} 
+
+#top{
+    text-decoration:underline;
+}
+
+.emphasizedText{
+font-style: italic;
+color: coral
+}
+
+body{
+    background-color: grey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    border: 5px solid black;
+    margin: 50px;
+    padding: 10px;
+}
+ul{
+list-style-position: inside;
+}
+ol{
+    list-style-position: inside;
+}
